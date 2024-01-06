@@ -1,0 +1,9 @@
+server:
+  port: 8090
+management:
+  security:
+    enabled: true
+spring:
+  resources:
+    chain:
+      enabled: true
